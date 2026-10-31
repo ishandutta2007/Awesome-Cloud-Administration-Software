@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Cloud-Administration-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Administration-Software?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Cloud-Administration-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Administration-Software?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Administration-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Administration-Software?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Administration-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Administration-Software?color=blue" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Cloud-Administration-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -66,9 +66,9 @@ The cloud administration, SaaS Management Platform (SMP), and Identity & Access 
 ## 🔓 Open-Source GitHub Projects
 
 > [!TIP]
-> The table below is ranked in descending order by **GitHub Star Count**. Every star badge links directly to the repository's stargazers community page.
+> The table below is ranked in descending order by **GitHub Stars_Count**. Every Stars_Badge links directly to the repository's stargazers community page.
 
-| Repository | GitHub Stars | License | Primary Tech Stack | Description & Cloud Administration Role |
+| Repository | GitHub_Stars | License | Primary Tech Stack | Description & Cloud Administration Role |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Keycloak](https://github.com/keycloak/keycloak)** | [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Apache-2.0 | Java / Quarkus | Industry-standard open-source identity and access management (IAM) server providing Single Sign-On (SSO), OpenID Connect, SAML 2.0, user federation (LDAP/Active Directory), and centralized realm administration. |
 | **[Authelia](https://github.com/authelia/authelia)** | [![Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers) | Apache-2.0 | Go / TypeScript | Lightweight authentication and authorization server providing two-factor authentication (2FA/MFA) and single sign-on (SSO) for internal web apps behind reverse proxies (Nginx, Traefik, Caddy, Envoy). |
